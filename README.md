@@ -5,6 +5,14 @@ PaperBot is a production-grade, web-based exam management ecosystem engineered s
 The system leverages artificial intelligence to parse instructional content, generate contextual question sets, and provide automated grading suggestions for subjective responses.
 
 *Developed as part of a Final Year Project (FYP) by Samran Taimoor & Arzoo Fatima.*
+### 👥 Team Contribution
+
+| Contributor | Responsibilities |
+|---|---|
+| **Samran Taimoor** | Backend development, database management, API integration, system implementation |
+| **Arzoo Fatima** | Frontend development, UI/UX design, project documentation & reporting |
+
+> This repository is a fork of [samran178/PapersBot](https://github.com/samran178/PapersBot). See contribution breakdown above for individual roles.
 
 🔗 **Production URL:** [https://papersbot.com](https://papersbot.com)
 
